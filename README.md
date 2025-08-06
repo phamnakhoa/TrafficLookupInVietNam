@@ -46,6 +46,6 @@ Violation page
 
 <img width="300" height="1000" alt="image" src="https://github.com/user-attachments/assets/eac05081-6085-4ce2-868c-1bb8891ab3ff" />
 
-Bạn có thể kham khảo thêm qua source code tôi để trong git .
+Bạn có thể kham khảo thêm qua source code tôi để trong git . TRONG folder ảnh sẽ có 1 số ảnh biển số mẫu cho bạn test.các dữ liệu này đều là dữ liệu GIẢ và đã có thông tin trên firebase .Ngoài ra còn 1 file API folder để quét biển số tôi viết trên python để test trước khi để đưa vào maui .
 
-"You can refer to the source code I’ve uploaded on Git."
+"You can refer to the source code I’ve uploaded on Git. Inside the 'images' folder, you’ll find several sample license plate images for testing purposes. All of this data is synthetic and already stored in Firebase. Additionally, there’s an 'API' folder containing a Python script I wrote to test license plate scanning before integrating it into the MAUI application."
